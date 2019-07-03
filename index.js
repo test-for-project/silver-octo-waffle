@@ -1,0 +1,3 @@
+const curlyWaffle = () => {
+  return "hello";
+};
